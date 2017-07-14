@@ -17,7 +17,7 @@ After creating an EML for your data, you get an XML document that's, well... not
 
 ![raw eml](figures/screenshot_raw_xml.png)
 
-(!!! function not working currently) In the `EML` package there's a function called `eml_view` relying on the [`listviewer` package](https://github.com/timelyportfolio/listviewer) to produce an interactive view of the XML in the Viewer pane of say, RStudio, which allows to check some things quickly but which is far from being an user-friendly representation of the metadata.
+(!!! function not working currently) In the `EML` package there's a function called `eml_view` relying on the [`listviewer` package](https://github.com/timelyportfolio/listviewer) to produce an interactive view of the XML in the Viewer pane of say, RStudio, which allows one to check some things quickly but which is far from being an user-friendly representation of the metadata.
 
 What does `emldown` do with your EML?
 =====================================
