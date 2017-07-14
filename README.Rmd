@@ -38,7 +38,7 @@ and get something like this!
 
 ![emldown](figures/screenshot_emldown.png)
 
-This format is much more likely to make you and your collaborators happy. Note how little effort you needed to invest into making it!
+This format is much more likely to make you and your collaborators happy. Note how little effort you needed to invest into making it! Viewing your metadata in this way makes it easy to read, and easy to spot any errors.
 
 The resulting website is based on [Bootstrap](https://getbootstrap.com/) and has some interactive components:
 
