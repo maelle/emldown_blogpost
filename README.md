@@ -44,7 +44,7 @@ Geographic information turns into a map, made using [leaflet](https://rstudio.gi
 
 ![demo2](figures/emldown_demo2.gif)
 
-Right now, we are able to capture some of the most common parts of Ecological Metadata Language, including the Title, Abstract, Authors, Keywords, Coverage (where in space and time the samples were taken), the Data Tables and Units associated with these.
+Right now, we are able to capture some of the most common parts of Ecological Metadata Language, including the Title, Abstract, Authors, Keywords, Coverage (where in space and time the samples were taken), the Data Tables and Units associated with these. Over time we plan to add support for additional components of the EML specification.
 
 ![demo3](figures/emldown_demo3.gif)
 
