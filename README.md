@@ -1,6 +1,6 @@
 ---
 title: "emldown: From machine readable EML metadata to a pretty documentation website"
-author: "Carl Boettiger, Jeff Hollister, Andrew MacDonald, Maëlle Salmon, Kara Woo"
+author: "Maëlle Salmon, Andrew MacDonald, Kara Woo, Carl Boettiger, Jeff Hollister"
 date: "2017-07-14"
 output:
   md_document:
