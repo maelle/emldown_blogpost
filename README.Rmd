@@ -1,6 +1,6 @@
 ---
 title: "emldown: From machine readable EML metadata to a pretty documentation website"
-author: "Carl Boettinger, Jeff Hollister, Andrew MacDonald, Maëlle Salmon, Kara Woo"
+author: "Carl Boettiger, Jeff Hollister, Andrew MacDonald, Maëlle Salmon, Kara Woo"
 date: "`r Sys.Date()`"
 output:
   md_document:
