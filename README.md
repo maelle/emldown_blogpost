@@ -12,8 +12,6 @@ We all know we should document our data, and some documentation is better than n
 
 That said, it's not always fun to write standard metadata. Although there's a very good package for helping you create the EML, [rOpenSci's EML package](https://github.com/ropensci/eml), documenting the data can be quite tedious.  Furthermore, before you share the data on a public repository that enforces EML, the only prize you get is a happy conscience, which isn't very tangible. In our unconf project, we created immediate gratification for EML users: a package that transforms the non-human readable EML file into a pretty documentation website for any dataset! 
 
-(or use Andrew's speech instead? :thinking_face:) <!-- do you have this on video?? If not we should get it and embed the video -->
-
 # What's EML, exactly, and why can't a human read it?
 
 [EML](https://en.wikipedia.org/wiki/Ecological_Metadata_Language) is a metadata standard originally created for the ecological sciences. In practice it's a set of XML schema documents, telling you what you need to document (e.g. the dataset creator, geographic coverage of the data, etc.) and how to build those documents (format of the XML). As mentioned previously, the [`EML` R package](https://ropensci.github.io/EML/) provides tools to create and read EML without needing to learn about XML thanks to helper functions and extensive documentation. Although its name contains the word _ecological_, one can use EML for documenting other datasets.  One of our team members uses it for documenting epidemiological datasets, because nothing she'd like to document is missing from the standard, and because of the existence of the `EML` R package.
